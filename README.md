@@ -4,4 +4,5 @@ Questões das APS da cadeira (Haskell e Java)
 Turma: 2019.2
 
 Site atual da cadeira: https://cin.ufpe.br/~if686ec
+
 Lembrando que algumas questões não estão 100% corretas!
